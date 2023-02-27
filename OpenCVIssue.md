@@ -1,4 +1,4 @@
-```{.C .numberLines .lineAnchors}
+```{C #numCode .numberLine}
 while (true)
        {
            IdentityOpsMap::iterator nextIt = identity_ops.find(it->second);
